@@ -1,0 +1,2 @@
+# Question 7: If names of 2 friends are same. What will happen to the program in Question 6?
+# Answer: If names of two friends are same it means that there must be two keys with the same name which is not possible. There exist only one key, whih is key with recently updated value.
